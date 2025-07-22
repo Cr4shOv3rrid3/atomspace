@@ -64,4 +64,8 @@ element.push_back('W-Boson');
 //Last but not least the Scalar Boson!
 element.push_back('Higgs'); //Nope that wasnt a Hiccup! Really!
 
+/** @}*/
+} // namespace opencog
+
+#endif // _OPENCOG_TYPES_H
 
