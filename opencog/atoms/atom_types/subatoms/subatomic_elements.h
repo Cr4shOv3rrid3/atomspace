@@ -1,8 +1,8 @@
 /*
- * opencog/atoms/atom_types/types.h
+ * opencog/atoms/atom_types/subatomic_elements/subatomic_elements.h
  *
  * Copyright (C) 2002-2007 Novamente LLC
- * Copyright (C) 2025 myneTEC GmbH
+ * Copyright (C) 2025 myneTEC GmbH via nanWave_subLink
  * All Rights Reserved
  *
  * Written by Thiago Maia <thiago@vettatech.com>
@@ -26,11 +26,11 @@
  */
 
 /**
- * basic type definitions.
+ * basic subtype definitions.
  */
 
-#ifndef _OPENCOG_TYPES_H
-#define _OPENCOG_TYPES_H
+#ifndef _OPENCOG_SUBTYPES_H
+#define _OPENCOG_SUBTYPES_H
 
 #include <set>
 
@@ -41,13 +41,13 @@ namespace opencog
  */
 
 //! type of Elements, represented as short integer (16 bits)
-typedef unsigned short Type;
+typedef unsigned short subType;
 
 //! Set of Element types
-typedef std::set<Type> TypeSet;
+typedef std::set<subType> subTypeSet;
 
 // Backwards compat. Arghh!
-extern opencog::Type TYPE_SET_LINK;
+extern opencog::subType subTYPE_SET_LINK;
 
 /** @}*/
 } // namespace opencog
