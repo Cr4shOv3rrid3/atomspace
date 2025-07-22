@@ -40,4 +40,28 @@ namespace opencog
  *  @{
  */
 
+opencog::subType element;
+
+//we go with Quarks first!
+element.push_back('Up');
+element.push_back('Down');
+element.push_back('Charm');
+element.push_back('Strange');
+element.push_back('Top');
+element.push_back('Bottom');
+//then comes the Leptones!
+element.push_back('Electron');
+element.push_back('E-Neutrino');
+element.push_back('Myon');
+element.push_back('M-Neutrino');
+element.push_back('Tauon');
+element.push_back('T-Neutrino');
+//then comes the Vector Bosons!
+element.push_back('Gluon');
+element.push_back('Photon');
+element.push_back('Z-Boson');
+element.push_back('W-Boson');
+//Last but not least theee...
+element.push_back('Higgs'); //Nope that wasnt a Hiccup! Really!
+
 
