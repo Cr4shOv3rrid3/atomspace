@@ -7,7 +7,7 @@
  *
  * Written by Thiago Maia <thiago@vettatech.com>
  *            Andre Senna <senna@vettalabs.com>
- *            Eric Günther <eric@mynetec.com>
+ *            Eric Günther <cr4shov3rrid3@mynetec.com>
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License v3 as
