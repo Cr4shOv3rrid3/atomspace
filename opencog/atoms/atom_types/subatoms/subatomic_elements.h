@@ -33,6 +33,7 @@
 #define _OPENCOG_SUBTYPES_H
 
 #include <set>
+#include <string>
 
 namespace opencog
 {
