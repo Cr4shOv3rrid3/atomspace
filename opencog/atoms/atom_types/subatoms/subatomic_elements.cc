@@ -1,5 +1,5 @@
 /*
- * opencog/atoms/atom_types/subatomic_elements/subatomic_elements.h
+ * opencog/atoms/atom_types/subatomic_elements/subatomic_elements.cc
  *
  * Copyright (C) 2002-2007 Novamente LLC
  * Copyright (C) 2025 myneTEC GmbH via nanWave_subLink
