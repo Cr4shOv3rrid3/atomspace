@@ -70,7 +70,7 @@ element.push_back("Higgs"); //Nope that wasnt a Hiccup! Really! but we could mak
 //But if you still prefer to go with a Dragon to make it your Ultimate Mastered Boss thingy anyways. i won't hold you back and will redirect you to Shenlong next *redirecting* -->. Now make your wish becoming one! (pretending you have all the required DragonBalls you need here gathered!)
 //but also know as Son Goku is still kind of the main star to that show as well. we are kind of back at this Big maybe Golden idea of a Gorilla ;)
 //End of Story = End of Life !!!(what could make sense for people against the zoo power of the Quantum Realm. yeah Dragonpower as its finest i guess, cause gues what, they destroy things quite fast and are not nice commonly to people!!)
-//Welcome 2 Quantum Realm Reality!!!
+//Welcome 2 Quantum Realm Reality!!! [helpful calculation basis see: https://youtu.be/9AakzE0ZLaQ?t=1563 see also @ t=1969]
 /** @}*/
 } // namespace opencog
 
