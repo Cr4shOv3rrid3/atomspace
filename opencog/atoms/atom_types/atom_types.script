@@ -503,7 +503,7 @@ VARIABLE_SET <- CONNECTOR_SET
 
 // A non-greedy globbing variable; matches one or more Atoms in a
 // sequence. All this really does is to name a variable, such that
-// the default type cnstructor for it will accept multiple matches.
+// the default type constructor for it will accept multiple matches.
 GLOB_NODE <- VARIABLE_NODE
 
 // Everything under a QuoteLink is interpreted literally. Variable
