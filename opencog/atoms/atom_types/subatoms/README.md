@@ -3,7 +3,7 @@ so: we need to place a good first guard into position: https://octodex.github.co
 
 but what do we need to protect besides those files inside that folder?
 
-simple: https://octodex.github.com/mona-lovelace/ (i mean someone somewhere once in a time had to start all the mankind programming work, if not for her (in this case her First name was Ada), we would maybe still trying to figure out how to get this mechanical computer thingy to run, who would have thought the first active worker being a programmer in history was a woman after all *openmouth*
+simple and let me introduce our Queen: https://octodex.github.com/mona-lovelace/ (i mean someone somewhere once in a time had to start all the mankind programming work, if not for her (in this case her First name was Ada), we would maybe still trying to figure out how to get this mechanical computer thingy to run, who would have thought the first active worker being a programmer in history was a woman after all *openmouth*
 yeah, as said most people have a bit a difficulty to connect into that quantum realm after all. i mean with all those man programming geeks walking around. or in this case: sitting around. typing on their keyboards and (hopefully) changing the world for the better with their coding ideas (if we exclude the bug problems all the times like --> this.one(); (can be a nasty one that i can assure you). 
 
 On the other hand it makes sense. i mean it takes a human to make a human born. and we might having bad cards here if we try to get another new child being born out of a man. so doing it by a woman wasnt a bad idea after all i assume! i mean all that starting ignition for programming work.
