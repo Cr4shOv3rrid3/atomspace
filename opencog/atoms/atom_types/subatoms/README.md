@@ -30,7 +30,7 @@ It exists, cause it should not or cannot. I mean technically the atom by its own
 but and this is a big one. we already get the problem here that people with the human mind create such a split. and hence make the mistake to create something that wasnt supposed to exist in the first place but kinda does now anyways: all that destructive power that is now contained in 2 folders one for the elements itself and one to play around with the realm where the elements exist itself. 
 yeah we could also call it kinda: "damn brain!"
 and i just tried the best way i can to implement that dilemma with putting such a realm now into this atomspace repo as well. mainly: its meant to exist in subexistence. Not as existence without being sub to an atomspace.
-sometimes kind of confusing. But i reached another strong number we today use for rockets: 33. Dragon (capsule) power!
+sometimes kind of confusing *scratches his head*. But i reached another strong number we today use for rockets: 33. Dragon (capsule) power!
 
 at this point i really wonder how this will show later, but i need 700 lines to be produced anyways. so i doubt its 38 that is showing right now. But after done some first editing work. i decided to leave it like that. 
 really strange yep!
