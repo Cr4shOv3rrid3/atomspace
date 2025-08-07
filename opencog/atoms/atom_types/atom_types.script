@@ -658,7 +658,7 @@ UPPER_SET_LINK <- JOIN_LINK
 MAXIMAL_JOIN_LINK <- JOIN_LINK
 
 // A proof-theory style "rule". It consists of a variable declaration,
-// a collection of "formulas" that are the "presmises" of the rule, and
+// a collection of "formulas" that are the "premises" of the rule, and
 // one (or more) formulas that are the conclusion of the rule. This is
 // a base class that provides ctor-time analyis of the PrenexLink, adds
 // a virtual method to get the conclusion(s). It avoids the overhead
