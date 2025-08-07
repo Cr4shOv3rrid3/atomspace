@@ -785,7 +785,7 @@ SIGNATURE_LINK <- CONNECTOR,TYPE_OUTPUT_LINK
 SIGN_NODE <- TYPE_NODE
 
 // Signature for a typed link. This is needed for encoding signatures
-// involving LinkValue and similar. It also simplifies polymorphsm.
+// involving LinkValue and similar. It also simplifies polymorphism.
 // Thus, for example, the siggnature of
 // (LinkValue (FloatValue...) (Concept ...)) cannot be encoded with
 // a regular SignatureLink, because the LinkValue blocks this. However,
