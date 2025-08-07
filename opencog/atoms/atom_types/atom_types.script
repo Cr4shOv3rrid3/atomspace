@@ -1012,8 +1012,8 @@ ELEMENT_OF_LINK <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 // TODO: perhaps create shift-left, shift-right and truncate operators?
 // Someday, they will be needed; just not yet, I guess.
 //SHIFT_LEFT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
-//SHIFT_RIGHT <- FUNCTION LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
-//TRUNCATE_OP <- FUNCTION LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
+//SHIFT_RIGHT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
+//TRUNCATE_OP <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 
 // Convert a FloatValue to a NumberNode. The argument is presumed to
 // be some executable link that, when executed, returns a FloatValue
