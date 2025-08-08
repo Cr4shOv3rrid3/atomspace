@@ -78,4 +78,4 @@ static inline SubFramePtr SubFrameCast(const ValuePtr& a)
 
 /** @}*/
 } // namespace opencog
-#endif // _OPENCOG_FRAME_H
+#endif // _OPENCOG_SUBFRAME2FRAME_H
