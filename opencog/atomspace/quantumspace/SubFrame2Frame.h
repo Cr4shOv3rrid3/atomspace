@@ -38,7 +38,7 @@ namespace opencog
  * This class provides infrastructure for frames.  These are atoms
  * with both a name and an outgoing set. Experimental.
  */
-class subFrame : public subAtom
+class SubFrame //: public subAtom
 {
 private:
 	void init();
