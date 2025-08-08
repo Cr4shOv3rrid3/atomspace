@@ -77,7 +77,7 @@ bool QuantumSpace::content_compare(const QuantumSpace& space_first,
     space_first.get_handles_by_type(subatomsInFirstSpace, SUBATOM, true);
     space_second.get_handles_by_type(subatomsInSecondSpace, SUBATOM, true);
 
-    // Uncheck each atom in the second quantumspace.
+    // Uncheck each subatom in the second quantumspace.
     for (auto subatom : subatomsInSecondSpace)
         atom->setUnchecked();
 
