@@ -1,5 +1,5 @@
 /*
- * opencog/atomspace//quantumspace/SubFrame2Frame.h
+ * opencog/atomspace/quantumspace/SubFrame2Frame.h
  *
  * Copyright (c) 2022 Linas Vepstas
  * Copyright (c) 2025 Eric Günther
