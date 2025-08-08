@@ -33,10 +33,10 @@
 #include <opencog/util/sigslot.h>
 
 #include <opencog/atoms/atom_types/subatoms/subatomic_elements.h>
-#include <opencog/atoms/base/Atom.h>
+//#include <opencog/atoms/base/Atom.h>
 #include <opencog/atoms/truthvalue/TruthValue.h>
 
-#include <opencog/atomspace/Frame.h>
+//#include <opencog/atomspace/Frame.h>
 #include <opencog/atomspace/TypeIndex.h>
 
 class SubAtomsTableUTest;
@@ -55,7 +55,7 @@ typedef std::shared_ptr<QuantumSpace> QuantumSpacePtr;
  * OpenCog. It contains methods to add and remove subatomic elements, as well as to
  * retrieve specific sets according to different criteria.
  */
-class QuantumSpace : public Frame
+class QuantumSpace //: public Frame
 {
     friend class StorageNode;     // Needs to call add() directly.
 
@@ -125,8 +125,8 @@ class QuantumSpace : public Frame
                         bool parent,
                         const QuantumSpace*) const;
 
-    void get_absent_atoms(HandleSeq&) const;
-    void get_atoms_in_frame(HandleSeq&) const;
+    void get_absent_subatoms(HandleSeq&) const;
+    void get_subatoms_in_frame(HandleSeq&) const;
 
 public:
     /**
