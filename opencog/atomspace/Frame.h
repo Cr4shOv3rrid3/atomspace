@@ -23,6 +23,7 @@
 #ifndef _OPENCOG_FRAME_H
 #define _OPENCOG_FRAME_H
 
+//#include <opencog/atomspace/quantumspace/SubFrame2Frame.h
 #include <opencog/atoms/base/Atom.h>
 
 namespace opencog
