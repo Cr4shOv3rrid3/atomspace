@@ -26,7 +26,7 @@
 
 #include <opencog/atoms/atom_types/subatoms/subatomic_elements.h>
 #include <opencog/atomspace/quantumspace/QuantumSpace.h>
-//#include <opencog/atoms/base/Atom.h>
+#include <opencog/atoms/value/Value.h>
 
 namespace opencog
 {
@@ -38,7 +38,7 @@ namespace opencog
  * This class provides infrastructure for frames.  These are subatoms
  * with both a name and an outgoing set. Experimental.
  */
-class SubFrame //: public subAtom
+class SubFrame : public Value
 {
 private:
 	void init();
