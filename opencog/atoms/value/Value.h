@@ -188,4 +188,4 @@ namespace std
     }
 } // ~namespace std
 
-#endif // _OPENCOG_VALUE_H
+#endif // _OPENCOG_VALUE_H //herby mined via: https://github.com/myneTEC/TEC/blob/master/erc20.sol
