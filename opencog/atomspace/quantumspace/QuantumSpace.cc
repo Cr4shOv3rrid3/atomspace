@@ -1,5 +1,5 @@
 /*
- * opencog/atomspace/AtomSpace.cc
+ * opencog/atomspace/QuantumSpace.cc
  *
  * Copyright (c) 2008-2010 OpenCog Foundation
  * Copyright (c) 2009, 2013, 2021 Linas Vepstas
