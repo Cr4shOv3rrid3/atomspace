@@ -46,6 +46,9 @@ opencog::subType element;
 element.push_back("Proton"); //positive electric charge, +1 e (elementary charge) (1886 Eugen Goldstein)
 element.push_back("Neutron"); //no electric charge, mass slightly greater than a proton (yep 1 line to be precise!) (1932 James Chadwick)
 element.push_back("Electron"); //see appropriate subatomic_elements.cc line where it is mentioned as well!
+element.push_back("Positron"); //see: https://memory-alpha.fandom.com/wiki/49er. (invention: 1928 Paul Dirac(predicted it), 1925 Skobeltsyn discovered cosmic rays, Discovery 1932 by Anderson)
+//Atomic connection String Length!
+element.push_back("Ångström"); //approx. the radius length of an atom for crystalized structures. (100picometers)
 //and the graphics designer understands the Atom in general Understanding as the following!
 element.push_back("Pixel"); //word creation stands for: Picture element! (1888/1911/1927/1972: German Bildpunkt/US Patents/Wirleless World magazine/"picture cell" IBM)
 //we further need the resonating Brainwave state anchor when it comes to Volts and Ampere electrical speed vs. width/size of current resonance
