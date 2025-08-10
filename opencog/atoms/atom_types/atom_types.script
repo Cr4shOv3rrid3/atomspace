@@ -1009,8 +1009,9 @@ DECIMATE_LINK <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 // a list of indexes of items to keep.
 ELEMENT_OF_LINK <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 
-// TODO: perhaps create shift-left, shift-right and truncate operators?
-// Someday, they will be needed; just not yet, I guess.
+// created shift-left, shift-right and truncate operators.
+// they will be needed to calculate for either the Truncate op. Or,
+// to decide for direction in calculation next! Ex. going up or down a pattern list.
 SHIFT_LEFT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 SHIFT_RIGHT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 TRUNCATE_OP <- SHIFT_LEFT,SHIFT_RIGHT,NUMERIC_INPUT_LINK,BOOLEAN_INPUT_LINK
