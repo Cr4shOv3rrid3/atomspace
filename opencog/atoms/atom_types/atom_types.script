@@ -1011,9 +1011,9 @@ ELEMENT_OF_LINK <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
 
 // TODO: perhaps create shift-left, shift-right and truncate operators?
 // Someday, they will be needed; just not yet, I guess.
-//SHIFT_LEFT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
-//SHIFT_RIGHT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
-//TRUNCATE_OP <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
+SHIFT_LEFT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
+SHIFT_RIGHT <- FUNCTION_LINK,NUMERIC_OUTPUT_LINK,BOOLEAN_OUTPUT_LINK
+TRUNCATE_OP <- SHIFT_LEFT,SHIFT_RIGHT,NUMERIC_INPUT_LINK,BOOLEAN_INPUT_LINK
 
 // Convert a FloatValue to a NumberNode. The argument is presumed to
 // be some executable link that, when executed, returns a FloatValue
@@ -1081,6 +1081,9 @@ INCREMENT_VALUE_LINK <- FUNCTION_LINK
 // It holds a Value, which functions can obtain by calling execute().
 // It *cannot* be placed in the AtomSpace, so is not quite a "real" Atom.
 VALUE_SHIM_LINK <- EXECUTABLE_LINK,NUMERIC_OUTPUT_LINK
+RAY_LINK <- VALUE_SHIM_LINK
+RAYTRACING_LINK <- RAY_LINK,NUMERIC_INPUT_LINK
+REALTIME_RAYTRACING_LINK <- RAYTRACING_LINK,TIME_LINK
 
 // --------------------
 // String functions
